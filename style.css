@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+
+#recipe-list {
+    background-color: aliceblue;
+}
+
+.img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe-name {
+    font-family: Baskerville, Georgia, ;
+}
